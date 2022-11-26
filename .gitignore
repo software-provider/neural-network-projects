@@ -1,0 +1,6 @@
+.idea/
+.ipynb_checkpoints/
+training_data/
+tensorboard_logs/
+trained_models/
+__pycache__/
